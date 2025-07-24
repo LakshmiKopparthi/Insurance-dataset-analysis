@@ -100,7 +100,7 @@ Offers granular view of how each policy type is performing in claim settlements,
 
 • Customer Engagement: 42% of policies inactive—potential re-engagement campaign needed
 
-![Alt text](https://github.com/LakshmiKopparthi/Insurance-dataset-analysis/blob/main/Insurance%20Dashboard.png)
+![Dashboard](https://github.com/LakshmiKopparthi/Insurance-dataset-analysis/blob/main/Insurance%20Dashboard.png)
 
 
 
